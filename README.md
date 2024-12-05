@@ -15,3 +15,7 @@
 ## 项目变更要求
 
 1. 请勿将本项目内容用作任何商业用途，包括图标等。
+
+## 其他
+
+本项目已上传到 overleaf gallery 和 [Github](https://github.com/DuanYao0516/SYSU-Recommendation-letter-template)，欢迎进行后续改进与使用。
